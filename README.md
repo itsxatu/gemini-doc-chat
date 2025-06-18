@@ -30,3 +30,8 @@ This project is an intelligent document QA agent that allows users to upload PDF
    ```bash
    git clone https://github.com/YOUR-USERNAME/gemini-pdf-qa-agent.git
    cd gemini-pdf-qa-agent
+
+
+   📸 Preview
+   ![image](https://github.com/user-attachments/assets/c9e2ca86-d4db-44e5-9902-bc341fd99143)
+
