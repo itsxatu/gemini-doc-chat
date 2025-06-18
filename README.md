@@ -23,6 +23,12 @@ This project is an intelligent document QA agent that allows users to upload PDF
 
 ---
 
+## 📸 Preview
+
+![PDF QA Agent Screenshot](![doc](https://github.com/user-attachments/assets/9eef1653-0644-48a5-a524-d7162b4497c8)
+)
+
+
 ## 🧑‍💻 Setup Instructions
 
 1. **Clone the Repository**
@@ -32,6 +38,4 @@ This project is an intelligent document QA agent that allows users to upload PDF
    cd gemini-pdf-qa-agent
 
 
-   📸 Preview
-   ![image](https://github.com/user-attachments/assets/c9e2ca86-d4db-44e5-9902-bc341fd99143)
 
